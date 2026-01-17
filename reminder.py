@@ -10,7 +10,7 @@ else:
     running = True
 
 while running:
-    time.sleep(3)
+    time.sleep(3600)
     print("\nLook away from the screen\n")
 
     b = input("\nType q to quit, Enter to continue:\n")
